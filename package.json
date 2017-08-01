@@ -6,7 +6,10 @@
     "ember-addon"
   ],
   "license": "MIT",
-  "author": "",
+  "author": {
+    "name": "Isaac Ezer",
+    "email": "isaac.ezer@gmail.com"
+  },
   "directories": {
     "doc": "doc",
     "test": "tests"
